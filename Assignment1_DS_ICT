@@ -1,0 +1,50 @@
+Assignment: Descriptive and Inferential Statistics Using Excel/Google Sheets & Python
+Section 1: Descriptive Statistics
+1. Measures of Central Tendency:
+● Given the dataset data = [12, 15, 14, 10, 18, 20, 22, 24, 17, 19], calculate the Mean, Median, and Mode using both Excel/Google Sheets/ Python.
+2. Percentiles and Quartiles:
+● Compute the 25th percentile (Q1), 50th percentile (Q2), and 75th percentile (Q3) for the dataset using both tools.
+3. Interquartile Range (IQR):
+● Find the IQR for the given dataset and explain its significance.
+4. Min and Max:
+● Identify the minimum and maximum values from the dataset.
+5. Finding Outliers Using Quartiles:
+● Compute the Lower Bound and Upper Bound.
+● Identify any outliers in the dataset.
+6. Measures of Dispersion:
+● Compute the Range, Variance, and Standard Deviation using both Excel/Google
+Sheets/Python.
+7. Z-score Standardization:
+● Compute the Z-scores for each value in the dataset and explain its significance in
+data standardization.
+8. Correlation Coefficient:
+● Given two datasets x = [10, 20, 30, 40, 50] and y = [5, 10, 15, 20, 25], compute the Pearson correlation coefficient.
+9. Scatter Plot Visualization:
+● Create a scatter plot using both Excel/Python to visually inspect the correlation between x and y.
+10. Box Plot Visualization:
+● Create a box plot for the dataset to visualize Q1, Q2, Q3, lower bound, upper bound, and outliers.
+11. Histogram Analysis:
+● Construct a histogram to show the frequency distribution of the dataset.
+
+##Section 2: Inferential Statistics
+12. Why Inferential Statistics?
+● Explain the difference between Correlation and Causation with an example.
+13. Population vs. Sample:
+● Why do we need sampling? Provide a real-world example.
+14. Hypothesis Testing Concepts:
+● Define Null Hypothesis, Alternate Hypothesis, Significance Level (α), and P-value.
+15. Z-test Calculation:
+● Given a sample mean of 25, population mean of 22, population standard deviation of 3, and sample size of 40, compute the Z-test statistic and interpret the results.
+16. P-value Computation for Z-test:
+● Using a standard normal table, find the p-value corresponding to the Z-test statistic computed in the previous question and determine whether to reject the null hypothesis at α = 0.05.
+17. One Sample T-test:
+● Given a sample of data = [45, 50, 55, 60, 62, 48, 52], test whether the mean is significantly different from 50 using a one-sample t-test.
+18. Independent Sample T-test:
+● Two groups of students took a math test. Their scores are:
+○ Group 1: [85, 90, 88, 92, 86]
+○ Group 2: [78, 75, 80, 83, 79]
+● Perform an independent sample t-test to determine if there is a significant difference between the means.
+19. Critical T-value Lookup:
+● Using a t-table, find the critical t-value for α = 0.05 with degrees of freedom appropriate for question 18 and interpret the results.
+20. Summary and Insights:
+● Summarize the key takeaways from the analysis performed above and describe how descriptive and inferential statistics can be used in real-world data analysis.
