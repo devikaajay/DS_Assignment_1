@@ -1,0 +1,37 @@
+# 12. Why Inferential Statistics? Explain the difference between Correlation and Causation with an example.
+
+Correlation
+- Indicates a statistical relationship between two or more variables.
+- It means that variables tend to change together.
+- It can be positive, negative or non existent.
+Causation
+- One variable causes a change in other variable.
+Example     --> eating ice cream directly causes sunburn.
+Correlation --> There is a correlation because both ice cream sales and sunburn cases tend to increase during the summer months.
+Causation   --> More people go to the beach during the summer which leads to more sunburns.More people buy ice cream during the summer to cool down.
+
+
+# 13. Population vs. Sample: Why do we need sampling? Provide a real-world example.
+
+- Sampling is the process of selecting a subset of individuals, items, or data from a larger group to make inferences about the entire population.
+- Sampling reflects the characteristics of the population.
+- Several reasons are feasible, cost effective, time efficient, more accurate and reliable.
+Example :
+A large Indian mobile phone manufacturer is launching a new smartphone model and wants to understand the potential customer interest, preferred features, and the price point consumers are willing to pay.
+The population of interest here is all potential smartphone buyers in India. This is a very large and diverse group, encompassing people of various age groups, income levels, and technological preferences across urban and rural areas.
+
+
+#14. Hypothesis Testing Concepts: Define Null Hypothesis, Alternate Hypothesis, Significance Level (α), and P-value.
+
+- Null hypothesis (H₀) - is our initial assumption about a population, often stating there's no effect or no change. We try to find evidence to disprove it.
+- Alternate hypothesis - is a statement that contradicts the null hypothesis. It represents the claim or the effect that we are trying to find evidence for.
+- Significance level (α) - is the risk we accept of wrongly rejecting the null hypothesis (saying there's an effect when there isn't). It's our decision-making threshold.
+- P-value - is the probability of seeing our results (or more extreme ones) if the null hypothesis is true. It tells us how likely our data is just by chance.
+
+
+#20. Summarize the key takeaways from the analysis performed above and describe how descriptive and inferential statistics can be used in real-world data analysis.
+
+Descriptive statistics - summarize and describe main features of dataset. It includes calculating average, creating charts and graphs, and measuring datas.
+                         eg - Painting a picture of data.
+Inferential statistics - Draws conclusions or make inferences using available data. It makes predictiona, test hypothesis, determine relationships within data.
+                         eg - Small piece of puzzle to understand whole picture.
